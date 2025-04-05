@@ -1,0 +1,70 @@
+[
+  {
+    "question": "¿Cuánto cuesta legalizar documentos académicos?",
+    "answer": "El costo es de 200 pesos para IES privadas y 200 pesos para IES privadas y 100 pesos para IES públicas."
+  },
+  {
+    "question": "¿Cómo obtengo mi número de oficio?",
+    "answer": "El número de oficio lo otorga la universidad. Con ese dato, puede llamar al MESCYT para confirmar si sus documentos llegaron."
+  },
+  {
+    "question": "¿Puede otra persona retirar mis documentos legalizados?",
+    "answer": "Solo el titular o un familiar directo (padres, hermanos/as o pariente que comparta un apellido) puede retirarlos, presentando el recibo de pago original."
+  },
+  {
+    "question": "¿Qué documentos puedo legalizar y cuál es el procedimiento?",
+    "answer": "Debe solicitar en el Departamento de Registro de su universidad que envíen al MESCYT su récord de calificaciones y fotocopia del título para su legalización."
+  },
+  {
+    "question": "¿Es obligatorio legalizar el acta de nacimiento?",
+    "answer": "Solo es obligatorio para extranjeros. Si su universidad lo exige, debe cumplir con el requisito."
+  },
+  {
+    "question": "¿El acta de nacimiento legalizada debe ser reciente?",
+    "answer": "No necesariamente, siempre y cuando sea la original y esté legalizada."
+  },
+  {
+    "question": "¿Cuánto tarda la legalización en Santiago?",
+    "answer": "El proceso tarda aproximadamente 10 a 12 días laborables, siempre que no haya errores en los documentos."
+  },
+  {
+    "question": "¿Qué es el programa de Incentivo Estudiantil (TIEs)?",
+    "answer": "Es un programa que otorga tarjetas de débito con RD$500 mensuales a estudiantes de la UASD de bajos recursos, para gastos relacionados con sus estudios."
+  },
+  {
+    "question": "¿Quiénes pueden aplicar al programa TIEs?",
+    "answer": "Estudiantes activos de la UASD con no más de 4 semestres cursados, egresados de liceos públicos en zonas pobres y que no tengan Beca Nacional."
+  },
+  {
+    "question": "¿Cómo solicito la tarjeta de Incentivo Estudiantil?",
+    "answer": "Debe estar atento a la convocatoria anual, llenar el formulario en línea en la página del MESCYT y entregar el expediente en las Salas Digitales de la UASD."
+  },
+  {
+    "question": "¿Dónde puedo usar la tarjeta TIEs?",
+    "answer": "Solo en establecimientos autorizados por ADESS (librerías, cafeterías, copiados). No se permite en bares, discotecas o casinos."
+  },
+  {
+    "question": "¿Puedo tener Beca Nacional y la tarjeta TIEs al mismo tiempo?",
+    "answer": "No, el MESCYT solo permite un beneficio por persona."
+  },
+  {
+    "question": "¿Qué hago si mi tarjeta no funciona?",
+    "answer": "Verifique si incumplió algún requisito (inactividad, cambio de universidad, etc.). Si fue excluido, debe aplicar en una nueva convocatoria."
+  },
+  {
+    "question": "¿Cómo reporto pérdida o robo de la tarjeta?",
+    "answer": "Debe hacer una denuncia policial y llevar el reporte a ADESS para solicitar una reposición."
+  },
+  {
+    "question": "¿Cuándo es la próxima convocatoria del TIEs?",
+    "answer": "Se anuncia con un mes de antelación en la página del MESCyT, redes sociales y prensa."
+  },
+  {
+    "question": "¿Puedo aplicar si ya tuve la tarjeta antes?",
+    "answer": "Sí, si fue excluido, puede volver a aplicar en una nueva convocatoria."
+  },
+  {
+    "question": "¿Cómo consulto el saldo de mi tarjeta?",
+    "answer": "No hay sistema en línea; debe llevar un control manual con los vouchers de sus transacciones."
+  }
+]
